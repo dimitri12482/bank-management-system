@@ -1,6 +1,4 @@
-Free Download Source Code "Bank Management System"
 
-FIRST Download
 
 1.XAMPP
 
